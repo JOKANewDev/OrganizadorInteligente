@@ -1,1 +1,1 @@
-DEFAULT_FOLDER = "C:/Users/Usuario/Downloads"
+DEFAULT_FOLDER = "C:/Usuários/Usuario/Downloads"
